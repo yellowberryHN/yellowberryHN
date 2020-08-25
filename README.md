@@ -12,7 +12,7 @@ Some things about me:
 
 Some things I'm interested in:
 
-- LEGO Stunt Rally
+- [LEGO](https://github.com/YellowberryHN/LSRUtil.NET) [Stunt](https://github.com/YellowberryHN/SRtoolbox) [Rally](https://github.com/YellowberryHN/OpenLSR)
 - Modding and reverse engineering low-effort or otherwise bad games
 - High energy music
 - Turning music into input for other things
