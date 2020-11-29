@@ -22,6 +22,13 @@ Some things I'm interested in:
 
 If you need to contact me, you can do so from any of the listed methods at [https://yello.ooo](https://yello.ooo), I try to keep it up to date.
 
+<p align="center">
+  <a href="https://github.com/YellowberryHN">
+    <img src="https://github-readme-stats.vercel.app/api?username=YellowberryHN&hide_border=true&show_icons=true" alt="YellowberryHN's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberryhn&hide_border=true&layout=compact" alt="YellowberryHN's GitHub languages">
+  </a>
+</p>
+
 ----
 
 **Hot take: Using the GNU GPL license is like making food that isn't to be eaten, music that isn't to be listened to.
