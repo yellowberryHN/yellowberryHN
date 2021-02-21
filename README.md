@@ -12,8 +12,9 @@ Some things about me:
 
 Some things I'm interested in:
 
-- [LEGO](https://github.com/YellowberryHN/LSRUtil.NET) [Stunt](https://github.com/YellowberryHN/SRtoolbox) [Rally](https://github.com/YellowberryHN/OpenLSR)
-- Modding and reverse engineering low-effort or otherwise bad games
+- [LEGO](https://github.com/OpenLSR/LSRUtil.NET) [Stunt](https://github.com/OpenLSR/SRtoolbox) [Rally](https://github.com/OpenLSR/OpenLSR)
+- SimCity 2000
+- Modding and reverse engineering old, low-effort or otherwise bad games
 - High energy music
 - Turning music into input for other things
 - Figuring out why my code doesn't work
