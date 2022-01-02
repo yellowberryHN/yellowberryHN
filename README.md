@@ -18,6 +18,7 @@ Some things I'm interested in:
 - High energy music
 - Turning music into input for other things
 - Figuring out why my code doesn't work
+- **Hopelessly obscure relics of the Internet**
 
 ***I'm always happy to review pull requests for any of my projects, if you'd like to help out!***
 
@@ -25,8 +26,8 @@ If you need to contact me, you can do so from any of the listed methods at [http
 
 <p align="center">
   <a href="https://github.com/YellowberryHN">
-    <img src="https://github-readme-stats.vercel.app/api?username=YellowberryHN&hide_border=true&show_icons=true" alt="YellowberryHN's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberryhn&hide_border=true&layout=compact" alt="YellowberryHN's GitHub languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YellowberryHN&hide_border=true&show_icons=true&theme=merko" alt="YellowberryHN's GitHub stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberryhn&hide_border=true&langs_count=4&theme=merko" alt="YellowberryHN's GitHub languages" title="I guess I'm a C# developer now?">
   </a>
 </p>
 
