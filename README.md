@@ -1,30 +1,33 @@
-### Hi there! I'm Zsolt. 💛 🇭🇺
+### hey! i'm yellow. 🇭🇺 💛 🇺🇸
 
-I'm Zsolt, but you might know me as Yellowberry, or just Yellow. Welcome to my GitHub profile!
+thanks for visiting my page!
 
-Some things about me:
+my name is zsolt, but you may know me by yellow or yellowberry. welcome to my github profile!
 
-- I value optimization (some would say too much)
-- I write mediocre code
-- I can't swim
-- I like wearing bright colors to make myself stand out in crowds
-- I'm Hungarian, but I live in the US
+a few interesting things about me:
 
-Some things I'm interested in:
+- i put too much effort into optimizing code
+- i don't like coffee
+- i can't swim
+- i like wearing bright colors to make myself stand out in crowds
+- i'm Hungarian, but i currently reside in the US
 
-- [LEGO](https://github.com/OpenLSR/LSRUtil.NET) [Stunt](https://github.com/OpenLSR/SRtoolbox) [Rally](https://github.com/OpenLSR/OpenLSR)
+some things i'm interested in:
+
+- a silly little rhythm game called WACCA
+- [LEGO Stunt Rally](https://github.com/OpenLSR)
 - SimCity 2000
-- Modding and reverse engineering old, low-effort or otherwise bad games
-- High energy music
-- Turning music into input for other things
-- Figuring out why my code doesn't work
-- **Hopelessly obscure relics of the Internet**
+- modding and reverse engineering old, low-effort or otherwise bad games
+- high energy music
+- turning music into input for other things
+- figuring out why my code doesn't work
+- **hopelessly obscure relics of the internet**
 
-***I'm always happy to review pull requests for any of my projects, if you'd like to help out!***
+***i'm always happy to review pull requests for any of my projects, if you'd like to help out!***
 
-If you need to contact me, you can do so from any of the listed methods at [https://yello.ooo](https://yello.ooo), I try to keep it up to date.
+if you need to contact me, please check [https://yello.ooo](https://yello.ooo) for (mostly) up-to-date contact info.
 
 ----
 
-**Hot take: Using the GNU GPL license is like making food that isn't to be eaten, music that isn't to be listened to.
-It's \<current year>, use permissive licenses.**
+**hot take: using the GNU GPL license is like making food that isn't to be eaten, music that isn't to be listened to.
+it's \<current year>, use permissive licenses.**
