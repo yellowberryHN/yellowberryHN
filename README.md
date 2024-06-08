@@ -31,7 +31,3 @@ if you need to contact me, please check [https://yello.ooo](https://yello.ooo) f
 
 **hot take: using the GNU GPL license is like making food that isn't to be eaten, music that isn't to be listened to.
 it's \<current year>, use permissive licenses.**
-
-<!-- haha funny -->
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: 50vw 50vh !important; width: 100vw; opacity: 0.1; background: url('https://github.com/yellowberryHN/yellowberryHN/assets/3966582/27fc1845-0838-417d-a260-f29161f61ef7');]{x0000}$}
